@@ -6,4 +6,4 @@ I’ve structured the mazes such that each equally sized square represents eithe
 <br><p align="center"><img src="Structured.png" width="300"> <img src="StructuredLabelled.png" width="300"></p>
 
 The exact same maze is shown below. In this case, it is clear that this is a 5x5 maze because the walls are thin. The 1s and 0s show how this maze’s structure corresponds to the one above, where the exact same sequence of 1s and 0s is depicted.
-<br><p align="center"><img src="Regular.png" width="300"> <img src="RegularLabelled.png" width="306"></p>
+<br><p align="center"><img src="Regular.png" width="300"> <img src="RegularLabelled.png" width="300"></p>
